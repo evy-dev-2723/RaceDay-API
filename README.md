@@ -91,9 +91,6 @@ The API uses JWT tokens. To authenticate:
 - **Organiser** can: create/edit/delete events, manage categories, capture results
 - **Participant** can: view events, enrol in events, view own results
 
-## CI/CD Status
-
-![CI Build](https://github.com/evy-dev-2723/RaceDay-API/actions/workflows/part2-ci.yml/badge.svg)
 
 ## Database Schema
 
