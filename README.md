@@ -119,7 +119,7 @@ The GitHub Actions workflow builds the project and runs all unit tests on every 
 
 ## Video Presentation
 
-Watch my Part 2 walkthrough here: [YouTube Link]([https://youtu.be/YOUR-VIDEO-ID](https://youtu.be/fuYd4_nSTl8?is=v3HL8veHJ4GCJqKF)
+Watch my Part 2 walkthrough here: [YouTube Link](https://youtu.be/fuYd4_nSTl8?is=v3HL8veHJ4GCJqKF)
 
 ## Author
 
