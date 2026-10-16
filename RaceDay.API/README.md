@@ -93,7 +93,7 @@ The API uses JWT tokens. To authenticate:
 
 ## CI/CD Status
 
-![CI Build](https://github.com/evy-dev-2723/RaceDay-API/actions/workflows/part2-ci.yml/badge.svg)
+![CI Build](ci-build.pnj)
 
 ## Database Schema
 
@@ -116,7 +116,7 @@ dotnet test
 
 ## Video Presentation
 
-Watch my Part 2 walkthrough here: [YouTube Link](https://youtu.be/YOUR-VIDEO-ID)
+Watch my Part 2 walkthrough here: [YouTube Link]([https://youtu.be/YOUR-VIDEO-I](https://youtu.be/fuYd4_nSTl8?is=v3HL8veHJ4GCJqKF)
 
 ## Author
 
