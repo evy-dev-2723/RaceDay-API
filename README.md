@@ -110,10 +110,16 @@ To run the unit tests:
 
 dotnet test
 
+## CI/CD Build Status
+
+![CI Build Green](ci-build.png)
+
+The GitHub Actions workflow builds the project and runs all unit tests on every push.
+
 
 ## Video Presentation
 
-Watch my Part 2 walkthrough here: [YouTube Link](https://youtu.be/YOUR-VIDEO-ID)
+Watch my Part 2 walkthrough here: [YouTube Link](https://youtu.be/fuYd4_nSTl8?is=v3HL8veHJ4GCJqKF)
 
 ## Author
 
